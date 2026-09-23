@@ -1,5 +1,5 @@
 import { useContext, useEffect } from 'react';
-import './main.css';
+import './MAINCSSPAGE.css';
 import { assets } from '../../assets/assets';
 import { Context } from '../../context/context';
 import HistoryPage from '../sidebar/pages/HistoryPage';
